@@ -1,0 +1,39 @@
+Substitua as interrogações(??) abaixo, com o resultado equivalente ao 1º exemplo:
+```
+h2{
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+```
+
+Substitua as interrogações(??) abaixo, com o resultado equivalente ao 2º exemplo:
+```
+h2{
+    padding-top: 1px;
+    padding-right: 2px;
+    padding-bottom: 3px;
+    padding-left: 1px;
+}
+```
+
+Substitua as interrogações(??) abaixo, com o resultado equivalente ao 3º exemplo:
+```
+h2{
+    padding-top: 1px;
+    padding-right: 2px;
+    padding-bottom: 2px;
+    padding-left: 1px;
+}
+```
+
+Substitua as interrogações(??) abaixo, com o resultado equivalente ao 4º exemplo:
+```
+h2{
+    padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+}
+```
